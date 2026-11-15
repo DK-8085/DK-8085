@@ -56,7 +56,6 @@ I’m an **AI-focused software engineer with 2+ years of experience**, building 
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,git,github,postman,selenium,playwright&perline=9" alt="cloud and devops" />
 </p>
 
-**ML & tools:** Machine Learning · Deep Learning · Image classification · Azure ML · Postman · Charles Proxy · pgAdmin · Google CVT
 
 ---
 
