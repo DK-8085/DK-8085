@@ -23,12 +23,12 @@
 
 ## 👋 About me
 
-I’m an **AI-focused software engineer with 2+ years of Python experience**, building LLM features for a production applicant tracking system and for freelance clients.
+I’m an **AI-focused software engineer with 2+ years of experience**, building LLM features for a production applicant tracking system and for freelance clients.
 
 - 🧠 At **Talentstech Software (Meepl ATS)** I built the **AI resume parser**: first on open-source **Qwen** with NLP extraction, then made it switchable to **Gemini Flash** and **Claude Sonnet** through configuration.
 - 🤖 I deliver **RAG chatbots**, multi-model scoring systems and computer-vision apps (plant disease detection).
 - 🛠️ Solid back-end habits: REST APIs, PostgreSQL, Docker, code reviews and agile sprints.
-- 📚 Currently levelling up **DSA and OOP / system design**, and growing my freelance practice.
+- 📚 Regularly levelling up **DSA and OOP / system design**, and growing my freelance practice.
 - 💬 Ask me about: **LLM integration, RAG, resume / document parsing, Python back ends**.
 
 ---
@@ -107,18 +107,12 @@ I’m an **AI-focused software engineer with 2+ years of Python experience**, bu
 
 ---
 
-## 📊 GitHub stats
+📊 GitHub activity
+<div align="center"> <!-- Streak: counts every day with a contribution, so it grows from today onward --> <img src="https://streak-stats.demolab.com?user=DK-8085&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" /> <!-- Contribution graph (last 31 days of real activity) --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DK-8085&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20-%20last%2031%20days" alt="Contribution graph" />
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak" />
+Stats Repos
 
 </div>
-
----
 
 ## 🎯 What I’m working on now
 
