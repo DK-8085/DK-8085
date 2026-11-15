@@ -122,9 +122,8 @@ I’m an **AI-focused software engineer with 2+ years of Python experience**, bu
 
 ## 🎯 What I’m working on now
 
-- [x] LLM-powered resume parsing in production
+- [x] Agent Uncertainty releated Research 
 - [ ] Sharpening **DSA & OOP** (one pattern a day)
-- [ ] Shipping a **showcase project** for clients
 - [ ] Landing my next **freelance AI project**
 
 ## 🤝 Let’s work together
