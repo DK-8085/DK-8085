@@ -117,8 +117,8 @@ Stats Repos
 ## 🎯 What I’m working on now
 
 - [x] Agent Uncertainty releated Research 
-- [ ] Sharpening **DSA & OOP** (one pattern a day)
-- [ ] Landing my next **freelance AI project**
+- [x] Sharpening **DSA & OOP** (one pattern a day)
+- [x] Landing my next **freelance AI project**
 
 ## 🤝 Let’s work together
 
